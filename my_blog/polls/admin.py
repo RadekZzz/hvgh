@@ -5,3 +5,5 @@ from .models import Choice
 from .models import Answers
 
 admin.site.register(Question)
+admin.site.register(Choice)
+admin.site.register(Answers)
